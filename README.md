@@ -10,3 +10,5 @@ fix issue #1
 issue #1 should be closed if the title of commit is fixed #1 !!
 
 issue #1 is not closed. The #1 should be in merge pull request!!
+
+"fixes #" should be in pull request title !! 
